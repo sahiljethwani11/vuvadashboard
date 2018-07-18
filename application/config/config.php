@@ -23,9 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/codeigniter/CodeIgniter-3.1.5/';
-$config['css'] = 'http://localhost/codeigniter/CodeIgniter-3.1.5/application/css/';
-$config['js'] = 'http://localhost/codeigniter/CodeIgniter-3.1.5/application/js/';
+$config['base_url'] = 'http://localhost/vuvadashboard/';
+$config['css'] = 'http://localhost/vuvadashboard/application/css/';
+$config['js'] = 'http://localhost/vuvadashboard/application/js/';
 /*
 |--------------------------------------------------------------------------
 | Index File
